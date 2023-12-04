@@ -2,7 +2,7 @@ import streamlit as st
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import AIMessage
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 def main():
     st.title("AI Quiz Generator")
